@@ -26,7 +26,7 @@ Each project is organized according to the corresponding week.
 | Week-01 | Project 1 – Student Authentication | Student authentication and login system |
 | Week-02 | Project 2 – RGUKT GUI C Mini Project | GUI-based C programming project |
 | Week-03 | Project 3 – Student Fee Management | Student fee management system |
-| Week-04 | Project 4 – CSE Section 1 AI/ML Project | AI/ML based project |
+| Week-04 | Project 4 – Basic Porgrams Searching and Soritng | AI/ML based project |
 | Week-05 | Project 5 – Beginner Shortest Route | Shortest route/path project |
 | Week-06 | Project 6 – Beginner People Counting | People counting project |
 | Week-07 | Project 7 – Beginner Face Recognition | Face recognition project |
@@ -49,7 +49,7 @@ DAA-Lab/
 │   └── Project-3-Student-Fee-Management/
 │
 ├── week-04/
-│   └── Project-4-CSE-Section-1-AI-ML/
+│   └── Project-4-Searching and Sorting/
 │
 ├── week-05/
 │   └── Project-5-Beginner-Shortest-Route/
